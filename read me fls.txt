@@ -1,0 +1,2 @@
+dun sa data folder lahat nung json files,
+tapos dun sa main folder yung vscode project natin mismo kung yun yung gamit
